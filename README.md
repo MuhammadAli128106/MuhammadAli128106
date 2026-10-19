@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/MuhammadAli128106">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=4A72AF&center=true&vCenter=true&width=620&lines=Heyy!+I%27m+Ali+%F0%9F%91%8B" alt="greeting" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=4A72AF&center=true&vCenter=true&width=620&lines=Heyy!!+I%27m+Ali+%F0%9F%91%8B&lines=Building+projects+in+public&lines=Open+to+collaborate+%2F+chat+about+volleyball" alt="greeting" />
   </a>
 </p>
 
@@ -100,10 +100,12 @@
 
 ### ♟️ Fun facts
 
-- My World Cup model picked Spain in June, and Spain lifted the trophy in July. It's my best record against reality so far.
-- I'll take a game of chess over small talk any day. Challenge accepted.
+- I love CATSSS — I will drop everything for a cat photo binge. 🐱
+- My World Cup model picked Spain in June, and Spain lifted the trophy in July — beginner's luck or destiny? I'll take it. ⚽🏆
+- I watched Haikyuu!! and fell head-over-heels for volleyball — now a lifelong fan and occasional player. 🏐
+- Ask me about Islamic history and I won't stop yapping — bring snacks and a comfy chair. 📚☕
+- I'll take a game of chess over small talk any day. Challenge accepted. ♟️
 - Volunteered with the **Edhi Foundation** (STEM activities with orphans) and the **Pakistan Red Crescent** (first aid and blood donation).
-- Ask me about the history of the subcontinent at your own risk. You'll get a 40-minute answer.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A72AF,50:1F3B66,100:0D1628&height=110&section=footer" alt="footer" />
