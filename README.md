@@ -51,7 +51,7 @@
 
 | Project | What it is | Built with |
 |---|---|---|
-| 🏆 [**WC-2026-Predictor**](https://github.com/MuhammadAli128106/WC-2026-PREDICTOR) | Logistic regression written from scratch on 90+ years of World Cup data. It picked **Spain** before the tournament started, and Spain won. 🇪🇸 | Python · NumPy · pandas |
+| 🏆 [**WC-2026-Predictor**](https://github.com/MuhammadAli128106/WC-2026-PREDICTOR) | Logistic regression written from scratch on 20 World Cups of data. Using only pre-tournament Elo ratings it picked **Spain**, and Spain won. 🇪🇸 | Python · NumPy · pandas |
 | 📈 [**FlyRank ML Internship**](https://github.com/MuhammadAli128106/Week-1_A1) | A "content refresh" model that flags web pages losing search momentum, plus a written research paper | Python · scikit-learn · DuckDB |
 | 💼 [**Business Management Platform**](https://github.com/MuhammadAli128106/Business-Management-Platform) | Multi-tenant CRM where every lead gets one owner and escalates automatically if nobody acts. Integrates Telegram, Google Pay (test mode) and Google Calendar | React · Express · PostgreSQL |
 | 🎮 [**Metal Slug OOP Project**](https://github.com/MuhammadAli128106/Metal-Slug-OOP-Project) | A Metal Slug-inspired run-and-gun platformer for my OOP course | C++ · SFML |
@@ -100,7 +100,7 @@
 
 ### ♟️ Fun facts
 
-- My World Cup model picked Spain in June, and Spain won the final in July. It's my best record against reality so far.
+- My World Cup model picked Spain in June, and Spain lifted the trophy in July. It's my best record against reality so far.
 - I'll take a game of chess over small talk any day. Challenge accepted.
 - Volunteered with the **Edhi Foundation** (STEM activities with orphans) and the **Pakistan Red Crescent** (first aid and blood donation).
 - Ask me about the history of the subcontinent at your own risk. You'll get a 40-minute answer.
