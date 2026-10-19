@@ -20,11 +20,11 @@
 ### 👋 About me
 
 - 🎓 **BS Computer Science** at **FAST-NUCES Islamabad** (class of 2029)
-- 🤖 **Machine Learning Intern at FlyRank**, building models that score which web pages are losing search momentum
+- 🤖 **Machine Learning Intern at FlyRank**, built models that score which web pages are losing search momentum
 - 🌙 **Founder of [Yusora](https://github.com/MuhammadAli128106/Yusora)**, a service-based startup that automates lead follow-up for small US service businesses
 - 🕌 **Building [Minar](https://github.com/MuhammadAli128106/Minar)**, a *Sadaqah Jariyah* project to help people find Islamic events near them (in progress)
 - 🧱 Grew up on **C++**: OOP, memory management, data structures, and a few games built with SFML
-- ⚡ Off the keyboard: chess, LeetCode, the history of the subcontinent, and Haikyu!!
+- ⚡ Off the keyboard: Volleyball, Chess, World History and Hanging out with friends!!
 
 ---
 
