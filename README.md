@@ -1,11 +1,12 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1628,50:1F3B66,100:4A72AF&height=200&section=header&text=Syed%20Muhammad%20Ali&fontColor=EAF0FA&fontSize=46&fontAlignY=36&des[...]">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1628,50:1F3B66,100:4A72AF&height=200&section=header&text=Syed%20Muhammad%20Ali&fontColor=EAF0FA&fontSize=46&fontAlignY=36" />
 </p>
 
 <p align="center">
   <a href="https://github.com/MuhammadAli128106">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=4A72AF&center=true&vCenter=true&width=620&lines=Heyy!+I'm+Ali+%F0%9F%91%[...]"></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=4A72AF&center=true&vCenter=true&width=620&lines=Heyy!+I%27m+Ali+%F0%9F%91%8B" alt="greeting" />
+  </a>
 </p>
 
 <p align="center">
@@ -34,12 +35,12 @@
     <td width="50%" valign="top">
       <h4>🌙 Yusora: <i>my service-based startup</i></h4>
       <p>I save time and money for busy business owners.</p>
-      <p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColo[...]
+      <p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /></p>
     </td>
     <td width="50%" valign="top">
       <h4>🕌 Minar: <i>Sadaqah Jariyah, in progress</i></h4>
-      <p>Finds out "what's happening near me this week": halaqahs, talks and classes across Islamabad in one place. Organisers submit events, every listing is reviewed, and each event has a map pi[...]
-      <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&log[...]
+      <p>Finds out "what's happening near me this week": halaqahs, talks and classes across Islamabad in one place. Organisers submit events, every listing is reviewed, and each event has a map pin and details.</p>
+      <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></p>
     </td>
   </tr>
 </table>
@@ -50,11 +51,11 @@
 
 | Project | What it is | Built with |
 |---|---|---|
-| 🏆 [**WC-2026-Predictor**](https://github.com/MuhammadAli128106/WC-2026-PREDICTOR) | Logistic regression written from scratch on 20 World Cups of data. Using only pre-tournament Elo ratings it pic[...]
-| 📈 [**FlyRank ML Internship**](https://github.com/MuhammadAli128106/Week-1_A1) | A "content refresh" model that flags web pages losing search momentum, plus a written research paper | Python · sc[...]
-| 💼 [**Business Management Platform**](https://github.com/MuhammadAli128106/Business-Management-Platform) | Multi-tenant CRM where every lead gets one owner and escalates automatically if nobody ac[...]
+| 🏆 [**WC-2026-Predictor**](https://github.com/MuhammadAli128106/WC-2026-PREDICTOR) | Logistic regression written from scratch on 20 World Cups of data. Using only pre-tournament Elo ratings it picks winners. | Python · NumPy |
+| 📈 [**FlyRank ML Internship**](https://github.com/MuhammadAli128106/Week-1_A1) | A "content refresh" model that flags web pages losing search momentum, plus a written research paper | Python · scikit-learn |
+| 💼 [**Business Management Platform**](https://github.com/MuhammadAli128106/Business-Management-Platform) | Multi-tenant CRM where every lead gets one owner and escalates automatically if nobody acts. | TypeScript · Node.js |
 | 🎮 [**Metal Slug OOP Project**](https://github.com/MuhammadAli128106/Metal-Slug-OOP-Project) | A Metal Slug-inspired run-and-gun platformer for my OOP course | C++ · SFML |
-| 🖼️ [**Semester 1 Projects**](https://github.com/MuhammadAli128106/Semester-1-Projects) | A terminal image editor: grayscale, brightness, contrast, blur, sharpen and rotate on raw RGB arrays[...]
+| 🖼️ [**Semester 1 Projects**](https://github.com/MuhammadAli128106/Semester-1-Projects) | A terminal image editor: grayscale, brightness, contrast, blur, sharpen and rotate on raw RGB arrays | C |
 
 ---
 
@@ -79,8 +80,8 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadAli128106&show_icons=true&hide_border=true&bg_color=0D1628&title_color=4A72AF&icon_color=4A72AF&text_color=EAF0[...]
-  <img height="165" src="https://streak-stats.demolab.com?user=MuhammadAli128106&hide_border=true&background=0D1628&ring=4A72AF&fire=F2A65A&currStreakLabel=4A72AF&sideLabels=EAF0FA&currStreakNum=E[...]
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadAli128106&show_icons=true&hide_border=true&bg_color=0D1628&title_color=4A72AF&icon_color=4A72AF&text_color=EAF0FA" />
+  <img height="165" src="https://streak-stats.demolab.com?user=MuhammadAli128106&hide_border=true&background=0D1628&ring=4A72AF&fire=F2A65A&currStreakLabel=4A72AF&sideLabels=EAF0FA" />
 </p>
 
 ---
