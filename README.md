@@ -5,8 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/MuhammadAli128106">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=4A72AF&center=true&vCenter=true&width=620&lines=Assalamu+alaikum!+I'm+Ali+%F0%9F%91%[....]">
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=4A72AF&center=true&vCenter=true&width=620&lines=Heyy!+I'm+Ali+%F0%9F%91%[...]"></a>
 </p>
 
 <p align="center">
@@ -34,7 +33,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🌙 Yusora: <i>my service-based startup</i></h4>
-      <p>Service businesses lose jobs after hours: missed calls, slow replies to web forms, follow-ups nobody sends. Yusora sets up automations that reply in seconds, follow up, and alert the owne[...]
+      <p>I save time and money for busy business owners.</p>
       <p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColo[...]
     </td>
     <td width="50%" valign="top">
@@ -51,9 +50,9 @@
 
 | Project | What it is | Built with |
 |---|---|---|
-| 🏆 [**WC-2026-Predictor**](https://github.com/MuhammadAli128106/WC-2026-PREDICTOR) | Logistic regression written from scratch on 20 World Cups of data. Using only pre-tournament Elo ratings it[...]
-| 📈 [**FlyRank ML Internship**](https://github.com/MuhammadAli128106/Week-1_A1) | A "content refresh" model that flags web pages losing search momentum, plus a written research paper | Python �[...]
-| 💼 [**Business Management Platform**](https://github.com/MuhammadAli128106/Business-Management-Platform) | Multi-tenant CRM where every lead gets one owner and escalates automatically if nobod[...]
+| 🏆 [**WC-2026-Predictor**](https://github.com/MuhammadAli128106/WC-2026-PREDICTOR) | Logistic regression written from scratch on 20 World Cups of data. Using only pre-tournament Elo ratings it pic[...]
+| 📈 [**FlyRank ML Internship**](https://github.com/MuhammadAli128106/Week-1_A1) | A "content refresh" model that flags web pages losing search momentum, plus a written research paper | Python · sc[...]
+| 💼 [**Business Management Platform**](https://github.com/MuhammadAli128106/Business-Management-Platform) | Multi-tenant CRM where every lead gets one owner and escalates automatically if nobody ac[...]
 | 🎮 [**Metal Slug OOP Project**](https://github.com/MuhammadAli128106/Metal-Slug-OOP-Project) | A Metal Slug-inspired run-and-gun platformer for my OOP course | C++ · SFML |
 | 🖼️ [**Semester 1 Projects**](https://github.com/MuhammadAli128106/Semester-1-Projects) | A terminal image editor: grayscale, brightness, contrast, blur, sharpen and rotate on raw RGB arrays[...]
 
