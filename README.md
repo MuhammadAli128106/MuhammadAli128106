@@ -100,12 +100,15 @@
 
 ### ♟️ Fun facts
 
-- I love CATSSS — I will drop everything for a cat photo binge. 🐱
-- My World Cup model picked Spain in June, and Spain lifted the trophy in July — beginner's luck or destiny? I'll take it. ⚽🏆
-- I watched Haikyuu!! and fell head-over-heels for volleyball — now a lifelong fan and occasional player. 🏐
-- Ask me about Islamic history and I won't stop yapping — bring snacks and a comfy chair. 📚☕
-- I'll take a game of chess over small talk any day. Challenge accepted. ♟️
-- Volunteered with the **Edhi Foundation** (STEM activities with orphans) and the **Pakistan Red Crescent** (first aid and blood donation).
+
+- Never thought tech was for me, but since Claude and all came out, I've fell in love with the process of building!
+- I like building stuff that make my life simpler and better.
+- I love CATSSS 
+- My World Cup model picked Spain in June, and Spain lifted the trophy in July, lol
+- I watched Haikyuu, and since then in love with volleyball!!
+- Ask me about Islamic history and I won't stop yapping lol
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A72AF,50:1F3B66,100:0D1628&height=110&section=footer" alt="footer" />
