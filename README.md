@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/MuhammadAli128106">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=4A72AF&center=true&vCenter=true&width=620&lines=Heyy!!+Salam!+Konnichiwa!+Bonjour!+Hola!+Ciao!&lines=Building+projects+in+public&lines=Open+to+collaborate+%2F+chat+about+volleyball" alt="greeting" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2400&pause=900&color=4A72AF&center=true&vCenter=true&width=620&lines=Heyy!!+Salam!+Konnichiwa!+Bonjour!+Hola!+Ciao!+Namaste!&lines=Building+projects+in+public&lines=Open+to+collaborate+%2F+chat+about+volleyball" alt="greeting" />
   </a>
 </p>
 
@@ -35,12 +35,12 @@
     <td width="50%" valign="top">
       <h4>🌙 Yusora: <i>my service-based startup</i></h4>
       <p>I save time and money for busy business owners.</p>
-      <p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColo[...]" />
+      <p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /></p>
     </td>
     <td width="50%" valign="top">
       <h4>🕌 Minar: <i>Sadaqah Jariyah, in progress</i></h4>
-      <p>Finds out "what's happening near me this week": halaqahs, talks and classes across Islamabad in one place. Organisers submit events, every listing is reviewed, and each event has a map pi[...]
-      <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoCol[...]" /></p>
+      <p>Finds out "what's happening near me this week": halaqahs, talks and classes across Islamabad in one place. Organisers submit events, every listing is reviewed, and each event has a map pin and details.</p>
+      <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></p>
     </td>
   </tr>
 </table>
@@ -51,11 +51,11 @@
 
 | Project | What it is | Built with |
 |---|---|---|
-| 🏆 [**WC-2026-Predictor**](https://github.com/MuhammadAli128106/WC-2026-PREDICTOR) | Logistic regression written from scratch on 20 World Cups of data. Using only pre-tournament Elo ratings it pic[...]
-| 📈 [**FlyRank ML Internship**](https://github.com/MuhammadAli128106/Week-1_A1) | A "content refresh" model that flags web pages losing search momentum, plus a written research paper | Python · sc[...]
-| 💼 [**Business Management Platform**](https://github.com/MuhammadAli128106/Business-Management-Platform) | Multi-tenant CRM where every lead gets one owner and escalates automatically if nobody ac[...]
+| 🏆 [**WC-2026-Predictor**](https://github.com/MuhammadAli128106/WC-2026-PREDICTOR) | Logistic regression written from scratch on 20 World Cups of data. Using only pre-tournament Elo ratings it picks winners. | Python · NumPy |
+| 📈 [**FlyRank ML Internship**](https://github.com/MuhammadAli128106/Week-1_A1) | A "content refresh" model that flags web pages losing search momentum, plus a written research paper | Python · scikit-learn |
+| 💼 [**Business Management Platform**](https://github.com/MuhammadAli128106/Business-Management-Platform) | Multi-tenant CRM where every lead gets one owner and escalates automatically if nobody acts. | TypeScript · Node.js |
 | 🎮 [**Metal Slug OOP Project**](https://github.com/MuhammadAli128106/Metal-Slug-OOP-Project) | A Metal Slug-inspired run-and-gun platformer for my OOP course | C++ · SFML |
-| 🖼️ [**Semester 1 Projects**](https://github.com/MuhammadAli128106/Semester-1-Projects) | A terminal image editor: grayscale, brightness, contrast, blur, sharpen and rotate on raw RGB arrays[...]
+| 🖼️ [**Semester 1 Projects**](https://github.com/MuhammadAli128106/Semester-1-Projects) | A terminal image editor: grayscale, brightness, contrast, blur, sharpen and rotate on raw RGB arrays | C |
 
 ---
 
@@ -80,7 +80,7 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadAli128106&show_icons=true&hide_border=true&bg_color=0D1628&title_color=4A72AF&icon_color=4A72AF&text_color=EAF0[...]
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadAli128106&show_icons=true&hide_border=true&bg_color=0D1628&title_color=4A72AF&icon_color=4A72AF&text_color=EAF0FA" />
   <img height="165" src="https://streak-stats.demolab.com?user=MuhammadAli128106&hide_border=true&background=0D1628&ring=4A72AF&fire=F2A65A&currStreakLabel=4A72AF&sideLabels=EAF0FA" />
 </p>
 
@@ -100,15 +100,12 @@
 
 ### ♟️ Fun facts
 
-
-- Never thought tech was for me, but since Claude and all came out, I've fell in love with the process of building!
-- I like building stuff that make my life simpler and better.
-- I love CATSSS 
-- My World Cup model picked Spain in June, and Spain lifted the trophy in July, lol
-- I watched Haikyuu, and since then in love with volleyball!!
-- Ask me about Islamic history and I won't stop yapping lol
-
-
+- I love CATSSS — I will drop everything for a cat photo binge. 🐱
+- My World Cup model picked Spain in June, and Spain lifted the trophy in July — beginner's luck or destiny? I'll take it. ⚽🏆
+- I watched Haikyuu!! and fell head-over-heels for volleyball — now a lifelong fan and occasional player. 🏐
+- Ask me about Islamic history and I won't stop yapping — bring snacks and a comfy chair. 📚☕
+- I'll take a game of chess over small talk any day. Challenge accepted. ♟️
+- Volunteered with the **Edhi Foundation** (STEM activities with orphans) and the **Pakistan Red Crescent** (first aid and blood donation).
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A72AF,50:1F3B66,100:0D1628&height=110&section=footer" alt="footer" />
