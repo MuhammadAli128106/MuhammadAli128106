@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/MuhammadAli128106">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2400&pause=900&color=4A72AF&center=true&vCenter=true&width=620&lines=Heyy!!+Salam!+Konnichiwa!+Bonjour!+Hola!+Ciao!+Namaste!&lines=Building+projects+in+public&lines=Open+to+collaborate+%2F+chat+about+volleyball" alt="greeting" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2400&pause=900&color=4A72AF&center=true&vCenter=true&width=620&lines=Heyy!!+Salam!+Konnichiwa!+Bonjour!+Hola!+Ciao!+Namaste!&lines=Building+projects+in+public&lines=Open+to+collaborate" alt="greeting" />
   </a>
 </p>
 
