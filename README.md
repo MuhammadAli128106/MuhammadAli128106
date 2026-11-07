@@ -22,7 +22,6 @@
 - 🎓 **BS Computer Science** at **FAST-NUCES Islamabad** (class of 2029)
 - 🤖 **Machine Learning Intern at FlyRank**, built models that score which web pages are losing search momentum
 - 🌙 **Founder of [Yusora](https://github.com/MuhammadAli128106/Yusora)**, a service-based startup that automates lead follow-up for service businesses
-- 🕌 **Building [Minar](https://github.com/MuhammadAli128106/Minar)**, a *Sadaqah Jariyah* project to help people find Islamic events near them (in progress)
 - 🧱 Grew up on **C++**: OOP, memory management, data structures, and a few games built with SFML
 - ⚡ Off the keyboard: Volleyball, Chess, World History and Hanging out with friends!!
 
@@ -36,11 +35,6 @@
       <h4>🌙 Yusora: <i>my service-based startup</i></h4>
       <p>I save time and money for busy business owners.</p>
       <p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🕌 Minar: <i>Sadaqah Jariyah, in progress</i></h4>
-      <p>Finds out "what's happening near me this week": halaqahs, talks and classes across Islamabad in one place. Organisers submit events, every listing is reviewed, and each event has a map pin and details.</p>
-      <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></p>
     </td>
   </tr>
 </table>
